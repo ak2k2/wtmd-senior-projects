@@ -1,0 +1,9 @@
+# Simulation Data Storage
+V4_H1_wo-75/
+V4_H4_wo-75/
+
+# Mac OS X directory metadata
+.DS_Store
+
+# VS Code
+.vscode/
